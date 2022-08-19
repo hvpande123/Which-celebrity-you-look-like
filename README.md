@@ -87,9 +87,9 @@ yes!! Now you can start predicting 🙂
 
 # Authors:
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Harshvardhan Pande
+Data Scientist Enthusiast
+Email: harshvpande21@gmail.com
 ```
 
 
