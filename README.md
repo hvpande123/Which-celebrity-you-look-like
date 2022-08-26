@@ -31,10 +31,6 @@ This really performing good you can consider by seeing this result 😀
 
 <img src="demo/4.png" alt="workflow" width="70%">
 
-The fun part is I am looked like Riteish Deshmukh 😄😁
-
-<img src="demo/5.png" alt="workflow" width="70%">
-
 # STEPS to run this project:
 
 You can also use others images instead of bollywood actress
